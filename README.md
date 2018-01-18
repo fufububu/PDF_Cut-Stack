@@ -11,8 +11,9 @@ Developed and tested with:
  + iText-5.0.1jar library [(https://sourceforge.net/projects/itext/files/iText/iText5.0.1)]  
   
 ## Getting Started
-Proper Usage is:  
-  
+Download Signature_pdf.jar, PDF_cutnstack.cfg and Courier-Normal Regular.ttf in your working directory.  
+Change/modify parameter in PDF_cutnstack.cfg to your requirements and run with:  
+
   >java -jar Signature_pdf.jar \<source\> \<dest> \<sides> \<markers> \<font> \<size> \<outwidth> \<outlength> \<inwidth> \<inlength> \<offset>  
 
 | **Parameter**  |  **Meaning** |
