@@ -1,4 +1,4 @@
-# PDF_Cut-Stack
+# PDF_CutnStack
 Program to impose a pdf file on a larger page as a 2 pages "cut and stack" printout.
  
 ## Prerequisites
